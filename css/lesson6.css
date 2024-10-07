@@ -85,3 +85,11 @@ p > i{
 span{
     margin: 5px;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+    padding: 10px;
+    overflow:  none;
+}
